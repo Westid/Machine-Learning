@@ -1,2 +1,3 @@
 # Machine-Learning
-This repository contains some ML projects
+This repository contains some ML projects some vim commands
+
